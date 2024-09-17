@@ -1,4 +1,4 @@
-// asks user for street, city, etc. and prints out address
+// asks for 3 names, stores them in an array, then prints out the first one
 // code by Ryuya Hirota
 
 #include <iostream>
